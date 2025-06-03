@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1686739_github.git_hub_admin" name="x_1686739_github.git_hub_admin">79b5365b83b522101e289370ceaad398</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-03 12:14:02</sys_created_on>
+        <sys_id>31b5369b83b522101e289370ceaad397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>79b5365b83b522101e289370ceaad398</sys_name>
+        <sys_package display_value="App for gitHub TEST" source="x_1686739_github">90a5be5383b522101e289370ceaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App for gitHub TEST">90a5be5383b522101e289370ceaad34b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_31b5369b83b522101e289370ceaad397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-03 12:14:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
