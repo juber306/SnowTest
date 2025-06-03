@@ -2,7 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description/>
+        <description>x_1686739_github.git_hub_admin role </description>
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
@@ -13,13 +13,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-06-03 12:14:02</sys_created_on>
         <sys_id>79b5365b83b522101e289370ceaad398</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_1686739_github.git_hub_admin</sys_name>
         <sys_package display_value="App for gitHub TEST" source="x_1686739_github">90a5be5383b522101e289370ceaad34b</sys_package>
         <sys_policy/>
         <sys_scope display_value="App for gitHub TEST">90a5be5383b522101e289370ceaad34b</sys_scope>
         <sys_update_name>sys_user_role_79b5365b83b522101e289370ceaad398</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-03 12:14:02</sys_updated_on>
+        <sys_updated_on>2025-06-03 12:20:03</sys_updated_on>
     </sys_user_role>
 </record_update>
